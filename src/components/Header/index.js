@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 
 import './styles.css';
 
-import logo from '../../assets/logo.svg';
-import camera from '../../assets/camera.svg';
+import logo from '@/assets/logo.svg';
+import camera from '@/assets/camera.svg';
 
 import { Link } from 'react-router-dom';
 
